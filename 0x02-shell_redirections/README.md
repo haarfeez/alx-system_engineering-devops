@@ -1,1 +1,1 @@
-my read me
+print "Hello, World"
